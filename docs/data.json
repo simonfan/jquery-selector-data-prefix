@@ -1,0 +1,33 @@
+{
+    "project": {
+        "name": "jquery-selector-data-prefix",
+        "version": "0.0.0"
+    },
+    "files": {
+        "src/index.js": {
+            "name": "src/index.js",
+            "modules": {
+                "jquery-selector-data-prefix": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {
+        "jquery-selector-data-prefix": {
+            "name": "jquery-selector-data-prefix",
+            "submodules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/index.js",
+            "line": 5,
+            "description": "AMD module."
+        }
+    },
+    "classes": {},
+    "classitems": [],
+    "warnings": []
+}

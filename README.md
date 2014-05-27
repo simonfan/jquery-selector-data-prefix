@@ -1,0 +1,3 @@
+# jquery-selector-data-prefix[![Build Status](https://secure.travis-ci.org/simonfan/jquery-selector-data-prefix.png?branch=master)](http://travis-ci.org/simonfan/jquery-selector-data-prefix)
+
+Some module...
